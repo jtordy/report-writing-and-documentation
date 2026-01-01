@@ -2,7 +2,7 @@
 
 This repository includes a sample security report demonstrating professional documentation skills used in penetration testing and incident response.
 
-reports/pentest-report.pdf
+📄 [Download Full Report (PDF)](reports/pentest-report.pdf)
 
 The report emphasizes:
 - Clear executive summaries
